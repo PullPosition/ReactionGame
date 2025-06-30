@@ -8,3 +8,4 @@ The speed of the button press determines the user's score:
 faster reactions earn more points. Pressing a button while the LED is off results in a penalty.
 
 The current score is displayed on an OLED screen in real time.
+![Wiring Setup](images/reactionTimerGameHardware.jpg)
