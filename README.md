@@ -10,3 +10,5 @@ faster reactions earn more points. Pressing a button while the LED is off result
 The current score is displayed on an OLED screen in real time.
 
 ![Hardware Setup](images/reactionTimerGameHardware.jpeg)
+
+![Hardware Setup Diagram](images/HardwareDiagram_bb.jpeg)
