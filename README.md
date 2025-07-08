@@ -11,4 +11,4 @@ The current score is displayed on an OLED screen in real time.
 
 ![Hardware Setup](images/reactionTimerGameHardware.jpeg)
 
-![Hardware Setup Diagram](images/HardwareDiagram_bb.jpeg)
+![Hardware Setup Diagram](images/HardwareDiagram_bb.jpg)
